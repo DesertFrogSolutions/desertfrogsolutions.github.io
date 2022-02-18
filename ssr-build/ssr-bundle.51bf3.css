@@ -10,13 +10,14 @@ body {
 }
 
 h1 {
+    color: #383940;
     font-family: Righteous, sans-serif;
     margin: 10px 0px 16px;
     font-size: 68px;
     line-height: 54px;
     font-weight: 500;
     letter-spacing: 1px;
-    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.73), 0 2px 4px rgba(0, 0, 0, 0.9);
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
@@ -97,10 +98,11 @@ li {
 }
 
 .subtitle {
+    color: #383940;
     margin-top: 20px;
     font-size: 23px;
     line-height: 34px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9), 0 1px 0 rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7), 0 1px 0 rgba(0, 0, 0, 0.65);
 }
 
 .subtitle.questiontext {
@@ -185,10 +187,10 @@ li {
 /*     background-image: url('/assets/IMG_5127-blur.avif'); */
 /* } */
 .webp .header-section {
-    background-image: url(/0e9e26064db7d4a351f68f42c6fdd3e4.webp);
+    background-image: url(/fc873f01a35d9b299815e2f0962122e2.webp);
 }
 .header-section {
-    background-image: url(/1efd9c1d2a3ded856e28001b82bf588f.png);
+    background-image: url(/47c413a1f9ecc424b9fcc5eff801c5a1.png);
 }
 .header-section {
     height: 100%;
@@ -200,8 +202,9 @@ li {
     background-repeat: no-repeat;
     background-attachment: fixed;
     opacity: 1;
-    color: #fff;
+    color: #383940;
     text-align: center;
+    overflow: overlay; /* Helps with responsiveness on smaller screens */
 }
 
 .footer-section {
@@ -361,4 +364,4 @@ li {
 }
 
 
-/*# sourceMappingURL=ssr-bundle.03997.css.map*/
+/*# sourceMappingURL=ssr-bundle.51bf3.css.map*/
