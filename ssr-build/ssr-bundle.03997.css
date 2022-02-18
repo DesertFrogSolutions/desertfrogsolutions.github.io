@@ -181,11 +181,20 @@ li {
     background-color: #5c3245;
 }
 
+/* .avif .header-section { */
+/*     background-image: url('/assets/IMG_5127-blur.avif'); */
+/* } */
+.webp .header-section {
+    background-image: url(/0e9e26064db7d4a351f68f42c6fdd3e4.webp);
+}
+.header-section {
+    background-image: url(/1efd9c1d2a3ded856e28001b82bf588f.png);
+}
 .header-section {
     height: 100%;
     padding-top: 193px;
     padding-bottom: 400px;
-    background-image: url(/1efd9c1d2a3ded856e28001b82bf588f.png);
+
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -352,4 +361,4 @@ li {
 }
 
 
-/*# sourceMappingURL=ssr-bundle.f579a.css.map*/
+/*# sourceMappingURL=ssr-bundle.03997.css.map*/
