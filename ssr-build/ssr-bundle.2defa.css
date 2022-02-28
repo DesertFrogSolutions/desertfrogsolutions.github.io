@@ -357,6 +357,9 @@ li {
     .align-right {
         text-align: center;
     }
+    .subtitle.questiontext {
+        text-align: center;
+    }
 }
 
 * {
@@ -364,4 +367,4 @@ li {
 }
 
 
-/*# sourceMappingURL=ssr-bundle.e3e85.css.map*/
+/*# sourceMappingURL=ssr-bundle.2defa.css.map*/
