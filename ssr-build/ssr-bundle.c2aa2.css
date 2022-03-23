@@ -107,6 +107,7 @@ li {
 
 .subtitle.questiontext {
     width: 80%;
+    max-width: 800px;
     margin-top: 20px;
     margin-right: auto;
     margin-left: auto;
@@ -367,4 +368,4 @@ li {
 }
 
 
-/*# sourceMappingURL=ssr-bundle.2defa.css.map*/
+/*# sourceMappingURL=ssr-bundle.c2aa2.css.map*/
